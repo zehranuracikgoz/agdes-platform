@@ -113,8 +113,6 @@ npm run start-web
 
 ## Preview
 
-### 📱 Interface Preview | Arayüz Önizleme
-
 | Home & Navigation | Volunteer Form | Matching | Admin Dashboard |
 | :---: | :---: | :---: | :---: |
 | <img src="./assets/screenshots/home_navigation_preview.png" height="400px" style="object-fit: cover;"> | <img src="./assets/screenshots/volunteer_skill_inventory.png" height="400px" style="object-fit: cover;"> | <img src="./assets/screenshots/ai_match_analytics.png" height="400px" style="object-fit: cover;"> | <img src="./assets/screenshots/admin_control_center.png" height="400px" style="object-fit: cover;"> |
